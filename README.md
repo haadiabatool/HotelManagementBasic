@@ -32,3 +32,6 @@ This project allows users to view a menu, place orders, and calculate the total 
 4. User is asked if they want to order more items.
 5. If yes → second order is taken and added to bill.
 6. Final total bill is displayed.
+
+## Output Screenshot
+   ![Picture](forGithub.11-05-26.jpeg)
